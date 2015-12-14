@@ -1,0 +1,28 @@
+name: Theatreink
+favicon: null
+layout_spectrum: 0.8409539768472314
+typography_spectrum: 0.7696142697241157
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2731269544456154
+  lightness: 0.8827264439314604
+  saturation: 0.03602126589976251
+  rhythmicContrast: 0.27041713427752256
+purpose: []
